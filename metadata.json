@@ -1,0 +1,5 @@
+{
+  "name": "VoxConvert - Audio & Text Master",
+  "description": "Powerful tool for transcription, translation, and text-to-speech with automatic grammar correction.",
+  "requestFramePermissions": ["microphone"]
+}
